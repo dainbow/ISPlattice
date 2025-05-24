@@ -33,7 +33,7 @@
   set text(font: "New Computer Modern", size: 12pt, lang: "ru")
   set heading(numbering: "1.")
 
-  show raw: set text(font: "New Computer Modern Mono")
+  show raw: set text(font: "New Computer Modern")
   show par: set block(spacing: 0.55em)
   show heading: set block(above: 1.4em, below: 1em)
 
