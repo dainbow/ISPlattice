@@ -171,3 +171,5 @@
     $lambda_1 <= 2 / root(n, V_n) root(n, det(Lambda))$
   ]
 ]
+
+#pagebreak()
